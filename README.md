@@ -1,6 +1,6 @@
-########### Downloading YouTube Video ##########
-########### Downloading YouTube Playlist ##########
-########### Downloading Entire YouTube Channel ##########
+#Downloading YouTube Video
+# Downloading YouTube Playlist 
+# Downloading Entire YouTube Channel 
 
 #Usefull commands
 > pip install pytube
